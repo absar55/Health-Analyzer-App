@@ -1,0 +1,4 @@
+#Mon Jun 17 21:00:42 PKT 2024
+base.0=C\:\\Users\\mabsa\\Downloads\\New folder (3)\\BMI Calculator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
